@@ -1,4 +1,4 @@
-# Spotify Replica 🎵
+# Spotify Replica 
 
 A simple front-end clone of the Spotify landing page built using **HTML** and **CSS**.
 
@@ -7,5 +7,5 @@ A simple front-end clone of the Spotify landing page built using **HTML** and **
 - Static replica of Spotify UI
 - Pure HTML and CSS (no frameworks or JS)
 
-## 🚀 Live Demo
+## Live Demo
 Check it out here: [Spotify Replica Live](https://saisujangaddam.github.io/Spotify-Replica/)
